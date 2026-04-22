@@ -4,8 +4,8 @@
 
 
 
-fanart from strawpage
+## fanart from strawpage
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/264fda48-1e14-4c96-8677-fe6b7e05c7c8" width="300" height="200" border="10"/>
-</p>
+
+![](https://github.com/user-attachments/assets/264fda48-1e14-4c96-8677-fe6b7e05c7c8)
